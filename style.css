@@ -1,3 +1,6 @@
+body{
+  font-family: Inter;
+}
 .main  {
   position: relative;
   top:32px;
@@ -18,4 +21,16 @@ td {
 
 th{
   background-color: darkgray;
+}
+
+.done{
+  background-color: rgb(183, 250, 183);
+  color: rgb(3, 76, 3);
+  font-weight: 800;
+}
+
+.doing{
+  background-color: rgb(250, 224, 183);
+  color: rgb(76, 41, 3);
+  font-weight: 800;
 }
