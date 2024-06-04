@@ -55,6 +55,11 @@ th {
   font-weight: 800;
 }
 
+.caution{
+  background-color: rgb(255 243 204 / 48%);
+    color: #ffa500;
+}
+
 .NA {
   color: lightgrey;
   text-align: center;
