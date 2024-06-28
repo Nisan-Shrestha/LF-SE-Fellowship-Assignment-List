@@ -1,0 +1,65 @@
+[
+  {
+    "sn": { "value": "1", "class": "" },
+    "title": { "value": "Responsive Web Design", "class": "" },
+    "category": { "value": "FrontEnd Basics (HTML/CSS)", "class": "" },
+    "status": { "value": "Done", "class": "done" },
+    "codeLink": { "value": "https://github.com/Nisan-Shrestha/LF-SE-Asgn-1-RWD", "class": "" },
+    "hostedLink": { "value": "https://nisan-shrestha.github.io/LF-SE-Asgn-1-RWD/", "class": "" },
+    "note": { "value": "Conversion of CSS to BEM complete.", "class": "highlight" }
+  },
+  {
+    "sn": { "value": "2", "class": "" },
+    "title": { "value": "Final RWD (Light+Dark Theme) with Sass & BEM", "class": "" },
+    "category": { "value": "FrontEnd Basics (HTML/CSS)", "class": "" },
+    "status": { "value": "Done", "class": "done" },
+    "codeLink": { "value": "https://github.com/Nisan-Shrestha/LF-SE-Asgn-2-Final-RWD-multitheme", "class": "" },
+    "hostedLink": { "value": "https://nisan-shrestha.github.io/LF-SE-Asgn-2-Final-RWD-multitheme/", "class": "" },
+    "note": { "value": "Basic SCSS refactoring done.", "class": "" }
+  },
+  {
+    "sn": { "value": "3", "class": "" },
+    "title": { "value": "Bouncing Balls in DOM", "class": "" },
+    "category": { "value": "JS Fundamentals", "class": "" },
+    "status": { "value": "Done", "class": "done" },
+    "codeLink": { "value": "https://github.com/Nisan-Shrestha/Bouncy-Balls", "class": "" },
+    "hostedLink": { "value": "https://nisan-shrestha.github.io/Bouncy-Balls/", "class": "" },
+    "note": { "value": "Custom Ball Count and Force Field effect done.", "class": "" }
+  },
+  {
+    "sn": { "value": "4", "class": "" },
+    "title": { "value": "Image Carousel : TS", "class": "" },
+    "category": { "value": "TS Basics", "class": "" },
+    "status": { "value": "Done", "class": "done" },
+    "codeLink": { "value": "https://github.com/Nisan-Shrestha/Carousel", "class": "" },
+    "hostedLink": { "value": "https://carousel-green-eta.vercel.app/", "class": "" },
+    "note": { "value": "Deployed to vercel for now.", "class": "highlight" }
+  },
+  {
+    "sn": { "value": "5", "class": "" },
+    "title": { "value": "Car Lane Game : TS", "class": "" },
+    "category": { "value": "TS Basics", "class": "" },
+    "status": { "value": "Done", "class": "done" },
+    "codeLink": { "value": "https://github.com/Nisan-Shrestha/Quick-Canvas-Game", "class": "" },
+    "hostedLink": { "value": "https://quick-canvas-game.vercel.app/", "class": "" },
+    "note": { "value": "Deployed basic game to vercel, Code Refactor Pending.", "class": "" }
+  },
+  {
+    "sn": { "value": "6", "class": "" },
+    "title": { "value": "Doodle Jump : TS", "class": "" },
+    "category": { "value": "TS Basics", "class": "" },
+    "status": { "value": "Done", "class": "done" },
+    "codeLink": { "value": "https://github.com/Nisan-Shrestha/Doodle-Jump-Canvas-TS", "class": "" },
+    "hostedLink": { "value": "https://doodle-jump-canvas-ts.vercel.app/", "class": "" },
+    "note": { "value": "Tilt to play Works on Chrome and Edge in mobile.", "class": "highlight" }
+  },
+  {
+    "sn": { "value": "7", "class": "" },
+    "title": { "value": "Minor Project: Dead Cells: Simplified, A simple platformer", "class": "" },
+    "category": { "value": "Frontend Finale", "class": "" },
+    "status": { "value": "Done", "class": "done" },
+    "codeLink": { "value": "https://github.com/Nisan-Shrestha/platformer2d-dead-cells", "class": "" },
+    "hostedLink": { "value": "https://platformer2d-dead-cells.vercel.app/", "class": "" },
+    "note": { "value": "", "class": "" }
+  }
+]
