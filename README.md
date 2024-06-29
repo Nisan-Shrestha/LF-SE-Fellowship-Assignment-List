@@ -91,7 +91,7 @@
           >Hosted Page</a
         >
       </td>
-      <td class="highlight">Deployed to vercel for now.</td>
+      <td class="highlight">Deployed to vercel.</td>
     </tr>
     <tr>
       <td>5</td>
