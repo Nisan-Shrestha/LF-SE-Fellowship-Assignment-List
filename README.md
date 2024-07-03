@@ -1,4 +1,5 @@
 #
+
 [LF-SE-Fellowship-Assignment-List](https://nisan-shrestha.github.io/LF-SE-Fellowship-Assignment-List/)
 
 <table id="assignments-table">
@@ -178,6 +179,21 @@
       <td>
         <a
           href="https://github.com/Nisan-Shrestha/LF-DB-Master/tree/main/Day2"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Database exercise: 3 (Joins and Window Functions)</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-DB-Master/tree/main/Day3"
           class="code-link"
           >Code</a
         >

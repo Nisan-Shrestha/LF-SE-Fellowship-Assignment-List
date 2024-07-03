@@ -80,4 +80,14 @@
     "hostedLink": { "value": "N/A", "class": "NA" },
     "note": { "value": "", "class": "" }
   }
+  ,
+  {
+    "sn": { "value": "10", "class": "" },
+    "title": { "value": "Database exercise: 3 (Joins and Window Functions)", "class": "" },
+    "category": { "value": "Database", "class": "" },
+    "status": { "value": "Done", "class": "done" },
+    "codeLink": { "value": "https://github.com/Nisan-Shrestha/LF-DB-Master/tree/main/Day3", "class": "" },
+    "hostedLink": { "value": "N/A", "class": "NA" },
+    "note": { "value": "", "class": "" }
+  }
 ]
