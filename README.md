@@ -1,4 +1,5 @@
-# [LF-SE-Fellowship-Assignment-List](https://nisan-shrestha.github.io/LF-SE-Fellowship-Assignment-List/)
+#
+[LF-SE-Fellowship-Assignment-List](https://nisan-shrestha.github.io/LF-SE-Fellowship-Assignment-List/)
 
 <table id="assignments-table">
   <thead>
@@ -152,6 +153,36 @@
           >Hosted Page</a
         >
       </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Database exercise: 1 (CRUD)</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-DB-Master/tree/main/Day1"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Database exercise: 2 (Sub Queries)</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-DB-Master/tree/main/Day2"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
       <td></td>
     </tr>
   </tbody>
