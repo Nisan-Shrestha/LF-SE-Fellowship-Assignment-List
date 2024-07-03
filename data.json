@@ -61,5 +61,23 @@
     "codeLink": { "value": "https://github.com/Nisan-Shrestha/platformer2d-dead-cells", "class": "" },
     "hostedLink": { "value": "https://platformer2d-dead-cells.vercel.app/", "class": "" },
     "note": { "value": "", "class": "" }
+  },
+  {
+    "sn": { "value": "8", "class": "" },
+    "title": { "value": "Database exercise: 1 (CRUD)", "class": "" },
+    "category": { "value": "Database", "class": "" },
+    "status": { "value": "Done", "class": "done" },
+    "codeLink": { "value": "https://github.com/Nisan-Shrestha/LF-DB-Master/tree/main/Day1", "class": "" },
+    "hostedLink": { "value": "N/A", "class": "NA" },
+    "note": { "value": "", "class": "" }
+  },
+  {
+    "sn": { "value": "9", "class": "" },
+    "title": { "value": "Database exercise: 2 (Sub Queries)", "class": "" },
+    "category": { "value": "Database", "class": "" },
+    "status": { "value": "Done", "class": "done" },
+    "codeLink": { "value": "https://github.com/Nisan-Shrestha/LF-DB-Master/tree/main/Day2", "class": "" },
+    "hostedLink": { "value": "N/A", "class": "NA" },
+    "note": { "value": "", "class": "" }
   }
 ]
