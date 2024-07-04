@@ -201,5 +201,20 @@
       <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
       <td></td>
     </tr>
+    <tr>
+      <td>11</td>
+      <td>Database exercise: 4 (Views and Procedures)</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-DB-Master/tree/main/Day4"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
