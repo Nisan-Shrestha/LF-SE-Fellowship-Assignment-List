@@ -168,7 +168,7 @@
           >Code</a
         >
       </td>
-      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td><a href="N/A" class="hosted-link NA"></a></td>
       <td></td>
     </tr>
     <tr>
@@ -198,7 +198,7 @@
           >Code</a
         >
       </td>
-      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td><a href="N/A" class="hosted-link NA"></a></td>
       <td></td>
     </tr>
     <tr>
@@ -213,7 +213,7 @@
           >Code</a
         >
       </td>
-      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td><a href="N/A" class="hosted-link NA"></a></td>
       <td></td>
     </tr>
   </tbody>
