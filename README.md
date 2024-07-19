@@ -1,6 +1,4 @@
-#
-
-[LF-SE-Fellowship-Assignment-List](https://nisan-shrestha.github.io/LF-SE-Fellowship-Assignment-List/)
+#[LF-SE-Fellowship-Assignment-List](https://nisan-shrestha.github.io/LF-SE-Fellowship-Assignment-List/)
 
 <table id="assignments-table">
   <thead>
@@ -93,7 +91,7 @@
           >Hosted Page</a
         >
       </td>
-      <td class="highlight">Deployed to vercel.</td>
+      <td class="highlight">Deployed to vercel for now.</td>
     </tr>
     <tr>
       <td>5</td>
@@ -168,7 +166,7 @@
           >Code</a
         >
       </td>
-      <td><a href="N/A" class="hosted-link NA"></a></td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
       <td></td>
     </tr>
     <tr>
@@ -198,7 +196,7 @@
           >Code</a
         >
       </td>
-      <td><a href="N/A" class="hosted-link NA"></a></td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
       <td></td>
     </tr>
     <tr>
@@ -213,7 +211,112 @@
           >Code</a
         >
       </td>
-      <td><a href="N/A" class="hosted-link NA"></a></td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Node.JS assingment: 1</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-TODO-API/tree/day1"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Node.JS assingment: 2</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-TODO-API/tree/day2"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Node.JS assingment: 3</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-TODO-API/tree/day3"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Node.JS assingment: 4</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-TODO-API/tree/day4"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Node.JS assingment: 5</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-TODO-API/tree/day5"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Node.JS assingment: 6</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-TODO-API/tree/day6"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Node.JS assingment: 7</td>
+      <td>Database</td>
+      <td class="done">Done</td>
+      <td>
+        <a
+          href="https://github.com/Nisan-Shrestha/LF-TODO-API/tree/day7"
+          class="code-link"
+          >Code</a
+        >
+      </td>
+      <td><a href="N/A" class="hosted-link NA">Hosted Page</a></td>
       <td></td>
     </tr>
   </tbody>
